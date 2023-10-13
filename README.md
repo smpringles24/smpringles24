@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 </div>
 
+### etc
+<div>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+</div>
+
 ### LoadMap
 2022.5 ~ 2022.9 - html/css/js 웹개발 찍먹   
 2023.6 ~ (진행중) - Flutter 앱개발   

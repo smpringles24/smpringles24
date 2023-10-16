@@ -36,4 +36,7 @@
 
    
 # Achievements
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=smpringles24&show_icons=true">

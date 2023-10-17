@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white"/>
    <img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
    <img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white"/>
-
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
 
 ### LoadMap

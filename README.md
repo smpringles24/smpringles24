@@ -30,17 +30,18 @@
 </div>
 
 ### LoadMap
-2022.5 ~ 2022.9 - html/css/js 웹개발 찍먹   
-2023.6 ~ (진행중) - Flutter 프론트엔드   
-2023.10 ~ (진행중) - Nest.js 백엔드 
-
+2022.5 ~ 2022.9 - 노마드코더 Web개발 강의, 스터디
+#### 군 입대
+2023.6 ~ 2023.12 - Flutter 프론트엔드   
+2023.10 ~ 2024.01 - Nest.js 백엔드 
+2023.05 ~ (진행중) - 알고리즘 스터디
 ### SideProject
 ~~2023.6 ~ 2023.9 - 팀 프로젝트 '술주정' [프론트엔드 - Flutter]~~   
-2023.11 ~ (진행중) - 개인 프로젝트 'SM Bar Master' [프론트엔드 - Flutter / 백엔드 - Nest.js, Psql]
+~~2023.11 ~ 2023.12 - 개인 프로젝트 'SM Bar Master' [프론트엔드 - Flutter / 백엔드 - Nest.js, Psql]~~
 
 
 # Achievements
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=smpringles24)](https://solved.ac/smpringles24)
 <img src="https://github-readme-stats.vercel.app/api?username=smpringles24&show_icons=true">

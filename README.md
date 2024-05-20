@@ -19,21 +19,20 @@
 <div>
    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-   <img src="https://img.shields.io/badge/typeform-262627?style=flat&logo=typeform&logoColor=white"/>
-
 </div>
 
 ### etc
 <div>
    <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/typeform-262627?style=flat&logo=typeform&logoColor=white"/>
 </div>
 
 ### LoadMap
 2022.5 ~ 2022.9 - 노마드코더 Web개발 강의, 스터디
 #### 군 입대
 2023.6 ~ 2023.12 - Flutter 프론트엔드   
-2023.10 ~ 2024.01 - Nest.js 백엔드 
+2023.10 ~ 2024.01 - Nest.js 백엔드   
 2023.05 ~ (진행중) - 알고리즘 스터디
 ### SideProject
 ~~2023.6 ~ 2023.9 - 팀 프로젝트 '술주정' [프론트엔드 - Flutter]~~   

@@ -6,7 +6,9 @@
 
 # Information
 - 인하대학교 컴퓨터공학과 (재학중) 
-- 공군 지능정보체계관리단 사지방 지박령 (2022 ~ 2024) 
+- 공군 지능정보체계관리단 사지방 지박령 (2022 ~ 2024)
+
+[개발 블로그](https://smpringles.tistory.com/)
 
 # My Stack
 ## Computer Architecture
